@@ -1,10 +1,10 @@
-# My First App
+# Seasons App
 
-> This is my document for Seasons app
+> Document for Seasons app
 
 ## Usage
 
 ```
-npm install seasons
+npm install
 
 ```
